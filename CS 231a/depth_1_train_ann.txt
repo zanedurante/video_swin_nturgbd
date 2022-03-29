@@ -1,0 +1,4 @@
+/vision/group/ntu-rgbd/depth_s007/S007C003P027R001A034 58 33
+/vision/group/ntu-rgbd/depth_s009/S009C003P019R002A028 70 27
+/vision/group/ntu-rgbd/depth_s015/S015C001P017R001A050 43 49
+/vision/group/ntu-rgbd/depth_s006/S006C003P015R001A031 65 30
