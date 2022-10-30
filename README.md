@@ -7,6 +7,6 @@ In order to complete a course project for CS 231a, a series of adaptations neede
 * See the example config files in `configs/` for examples on how to use the updated Video-Swin repo.
 
 ### Installation
-In order to use the code I have written, use the installation instructions of the original [Video-Swin repo](https://github.com/SwinTransformer/Video-Swin-Transformer), (but use this repo instead).
+In order to use the code I have written, use the installation instructions of the original [Video-Swin repo](https://github.com/zanedurante/video_swin_nturgbd/blob/main/Video-Swin-Transformer/docs/install.md), (but use this repo instead).
 
 If you run into any issues using this code, feel free to create issues and I will try to respond as soon as possible.
